@@ -1,0 +1,51 @@
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\Data\bin\Debug\net6.0\Data.deps.json
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\Data\bin\Debug\net6.0\Data.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\Data\bin\Debug\net6.0\Data.pdb
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\Data\bin\Debug\net6.0\Domain.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\Data\bin\Debug\net6.0\Domain.pdb
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\Data\obj\Debug\net6.0\Data.csproj.CopyComplete
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\Data\obj\Debug\net6.0\Data.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\Data\obj\Debug\net6.0\refint\Data.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\Data\obj\Debug\net6.0\Data.pdb
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\Data\obj\Debug\net6.0\ref\Data.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\Data\obj\Debug\net6.0\Data.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\Data\obj\Debug\net6.0\refint\Data.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\Data\obj\Debug\net6.0\Data.pdb
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\Data\bin\Debug\net6.0\Data.deps.json
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\Data\bin\Debug\net6.0\Data.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\Data\bin\Debug\net6.0\Data.pdb
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\Data\bin\Debug\net6.0\Domain.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\Data\bin\Debug\net6.0\Domain.pdb
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\Data\obj\Debug\net6.0\Data.csproj.CopyComplete
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\Data\obj\Debug\net6.0\ref\Data.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\Data\bin\Debug\net6.0\Data.deps.json
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\Data\bin\Debug\net6.0\Data.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\Data\bin\Debug\net6.0\Data.pdb
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\Data\bin\Debug\net6.0\Domain.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\Data\bin\Debug\net6.0\Domain.pdb
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\Data\obj\Debug\net6.0\Data.csproj.CopyComplete
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\Data\obj\Debug\net6.0\Data.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\Data\obj\Debug\net6.0\refint\Data.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\Data\obj\Debug\net6.0\Data.pdb
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\Data\obj\Debug\net6.0\ref\Data.dll

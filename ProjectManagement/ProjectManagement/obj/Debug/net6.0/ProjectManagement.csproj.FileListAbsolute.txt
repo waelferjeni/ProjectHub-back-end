@@ -1,0 +1,300 @@
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\appsettings.json
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\ProjectManagement.exe
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\ProjectManagement.deps.json
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\ProjectManagement.runtimeconfig.json
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\ProjectManagement.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\ProjectManagement.pdb
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Humanizer.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\MediatR.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\obj\Debug\net6.0\ProjectManagement.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\obj\Debug\net6.0\ProjectManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\obj\Debug\net6.0\ProjectManagement.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\obj\Debug\net6.0\ProjectManagement.AssemblyInfo.cs
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\obj\Debug\net6.0\ProjectManagement.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\obj\Debug\net6.0\ProjectManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\obj\Debug\net6.0\ProjectManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\obj\Debug\net6.0\staticwebassets\msbuild.ProjectManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectManagement.props
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectManagement.props
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectManagement.props
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\obj\Debug\net6.0\scopedcss\bundle\ProjectManagement.styles.css
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\obj\Debug\net6.0\ProjectManagement.csproj.CopyComplete
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\obj\Debug\net6.0\ProjectManagement.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\obj\Debug\net6.0\refint\ProjectManagement.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\obj\Debug\net6.0\ProjectManagement.pdb
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\obj\Debug\net6.0\ProjectManagement.genruntimeconfig.cache
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\obj\Debug\net6.0\ref\ProjectManagement.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Data.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Domain.dll
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Data.pdb
+C:\Users\MSI\Desktop\stage\Pfe\repo\back\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Domain.pdb
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\appsettings.Development.json
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\appsettings.json
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\ProjectManagement.exe
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\ProjectManagement.deps.json
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\ProjectManagement.runtimeconfig.json
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\ProjectManagement.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\ProjectManagement.pdb
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\AutoMapper.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Azure.Core.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Azure.Identity.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Humanizer.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\MediatR.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\MediatR.Contracts.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\System.CodeDom.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\System.Memory.Data.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\System.Text.Json.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Data.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Domain.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Data.pdb
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Domain.pdb
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\obj\Debug\net6.0\ProjectManagement.csproj.AssemblyReference.cache
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\obj\Debug\net6.0\ProjectManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\obj\Debug\net6.0\ProjectManagement.AssemblyInfoInputs.cache
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\obj\Debug\net6.0\ProjectManagement.AssemblyInfo.cs
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\obj\Debug\net6.0\ProjectManagement.csproj.CoreCompileInputs.cache
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\obj\Debug\net6.0\ProjectManagement.MvcApplicationPartsAssemblyInfo.cs
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\obj\Debug\net6.0\ProjectManagement.MvcApplicationPartsAssemblyInfo.cache
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\obj\Debug\net6.0\staticwebassets\msbuild.ProjectManagement.Microsoft.AspNetCore.StaticWebAssets.props
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectManagement.props
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectManagement.props
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectManagement.props
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\obj\Debug\net6.0\staticwebassets.pack.json
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\obj\Debug\net6.0\staticwebassets.build.json
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\obj\Debug\net6.0\staticwebassets.development.json
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\obj\Debug\net6.0\scopedcss\bundle\ProjectManagement.styles.css
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\obj\Debug\net6.0\ProjectManagement.csproj.CopyComplete
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\obj\Debug\net6.0\ProjectManagement.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\obj\Debug\net6.0\refint\ProjectManagement.dll
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\obj\Debug\net6.0\ProjectManagement.pdb
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\obj\Debug\net6.0\ProjectManagement.genruntimeconfig.cache
+E:\school\PFE\New Version\PFE\PFE\backend\ProjectManagement\ProjectManagement\obj\Debug\net6.0\ref\ProjectManagement.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\appsettings.Development.json
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\appsettings.json
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\ProjectManagement.exe
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\ProjectManagement.deps.json
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\ProjectManagement.runtimeconfig.json
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\ProjectManagement.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\ProjectManagement.pdb
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\AutoMapper.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Azure.Core.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Azure.Identity.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Humanizer.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\MediatR.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\MediatR.Contracts.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\System.CodeDom.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\System.Memory.Data.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\System.Text.Json.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Data.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Domain.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Data.pdb
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\bin\Debug\net6.0\Domain.pdb
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\obj\Debug\net6.0\ProjectManagement.csproj.AssemblyReference.cache
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\obj\Debug\net6.0\ProjectManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\obj\Debug\net6.0\ProjectManagement.AssemblyInfoInputs.cache
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\obj\Debug\net6.0\ProjectManagement.AssemblyInfo.cs
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\obj\Debug\net6.0\ProjectManagement.csproj.CoreCompileInputs.cache
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\obj\Debug\net6.0\ProjectManagement.MvcApplicationPartsAssemblyInfo.cs
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\obj\Debug\net6.0\ProjectManagement.MvcApplicationPartsAssemblyInfo.cache
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\obj\Debug\net6.0\staticwebassets\msbuild.ProjectManagement.Microsoft.AspNetCore.StaticWebAssets.props
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectManagement.props
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectManagement.props
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectManagement.props
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\obj\Debug\net6.0\staticwebassets.pack.json
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\obj\Debug\net6.0\staticwebassets.build.json
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\obj\Debug\net6.0\staticwebassets.development.json
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\obj\Debug\net6.0\scopedcss\bundle\ProjectManagement.styles.css
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\obj\Debug\net6.0\ProjectManagement.csproj.CopyComplete
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\obj\Debug\net6.0\ProjectManagement.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\obj\Debug\net6.0\refint\ProjectManagement.dll
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\obj\Debug\net6.0\ProjectManagement.pdb
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\obj\Debug\net6.0\ProjectManagement.genruntimeconfig.cache
+E:\school\PFE\newest backend\PFE\backend\New-Backend-Repository\ProjectManagement\ProjectManagement\obj\Debug\net6.0\ref\ProjectManagement.dll
